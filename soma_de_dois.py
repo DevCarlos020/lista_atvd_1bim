@@ -1,0 +1,1 @@
+print(f'A soma dos dois numeros é: {float(int(input('Qual primiero numero? ')) + int(input('Qual primiero numero? ')))}')

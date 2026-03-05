@@ -1,0 +1,1 @@
+print(f'A media das tres notas é: {float(int(input('Qual primiero nota? ')) + int(input('Qual segunda nota? ')) + int(input('Qual terceira nota? '))) / 3}')

@@ -1,0 +1,1 @@
+print(f'{'par' if int(input('qual numero? ')) % 2 == 0 else 'impar'}')
